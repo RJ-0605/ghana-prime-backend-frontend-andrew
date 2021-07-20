@@ -1,0 +1,56 @@
+
+
+django-taggit for tags
+
+
+
+
+SAMPLE PROPERTY FROM SOLOMON 
+
+
+
+
+Name:
+MR.APPIAH
+Location:
+EAST LEGON
+Ratings:
+6
+Tags:
+FULLY FURNISHED
+A comma-separated list of tags.
+Price:
+1500
+Price currency:
+$
+Description:
+2 BEDROOM HOUSE FOR RENT IN EAST LEGON. PRICE:$1500
+
+THIS ONE STOREY HOUSE IS MINIMALISTICALLY DESIGNED AND IN A WELL DEMARCATED AREA.
+
+THE GROUND FLOOR COMES WITH AN OPEN LIVING AND DINING AREA, A STORAGE ROOM, A VISITORS WASHROOM AND AN ENSUITE BEDROOM. ON THE FIRST FLOOR IS A BEAUTIFULLY DESIGNED FAMILY AREA WITH A BAR. ALSO LOCATED ON THE FIRST FLOOR IS AN ENSUITE MASTER BEDROOM WITH A WALK-IN CLOSET AND A BALCONY.
+
+THIS HOUSE COMES WITH BACKUP WATER AND POWER SUPPLY, CCTV, A CUSTOM DESIGNED SWIMMING POOL AND A SPACIOUS PARKING AREA.
+
+LOCATED IN EAST LEGON, ONE OF THE LEADING RESIDENTIAL AREAS IN ACCRA, GHANA WITH EATERIES AND INTERNATIONAL SCHOOLS.
+Author:
+rodney
+ ChangeAdd
+Approved
+Available
+This field is required.
+Features:
+---------
+ 
+
+
+
+
+eval- read more - it picks ou the python commands in a string and executes them 
+
+command = "print('hey)"
+eval (command)
+   >>>>hey
+
+
+   installed drf.yang alternative to djangoo swagger
